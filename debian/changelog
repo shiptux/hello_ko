@@ -1,0 +1,5 @@
+hello (0.0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- licheng <licheng@uniontech.com>  Mon, 31 May 2021 15:54:24 +0800
