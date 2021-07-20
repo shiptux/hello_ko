@@ -7,7 +7,7 @@
 
 ## Install require packages:
 
-<code>sudo  apt install build-essential linux-headers-`uname -r` debheleper</code>
+<code>sudo  apt install gcc build-essential linux-headers-`uname -r` debheleper</code>
 
 ## Compile:
 
